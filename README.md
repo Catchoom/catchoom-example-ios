@@ -25,7 +25,7 @@ project and hit the run button.
 To build the project or use the library, you will need XCode 7 or newer,
 and at least the iOS 8.0 SDK.
 
-This example works with the Catchoom SDK version 5.
+This example works with the CraftAR Augmented Reality SDK version 5.
 
 
 ### Integrate the SDK in your own project
